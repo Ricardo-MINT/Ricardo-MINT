@@ -1,6 +1,6 @@
 # 👋 Prazer! Eu me chamo Ricardo.
 
-🐧 Entusiasta Linux | 🔧 Infraestrutura e Suporte | 🎓 Estudante FATEC-SP
+🐧 Entusiasta Linux | 🔧 Infraestrutura e Suporte | 🎓 Estudante FATEC-PG
 
 ## 🛠️ Tecnologias
 - Linux (Mint, Ubuntu)
