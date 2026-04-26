@@ -1,4 +1,4 @@
-# 👋 Prazer! Eu me chamo Ricardo.
+# 👋 Prazer! Eu me chamo Ricardo :)
 
 🐧 Entusiasta Linux | 🔧 Infraestrutura e Suporte | 🎓 Estudante FATEC-PG
 
