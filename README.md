@@ -8,7 +8,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (FATEC) com foco em Linux, i
 - Integração com PostgreSQL
 
 🎯 Objetivo:
-Atuar com infraestrutura, DevOps ou suporte técnico, aplicando automação e observabilidade.
+Atuar com infraestrutura, DevOps, NOC ou suporte técnico, aplicando automação e observabilidade.
 
 
 ## 📫 Contato
