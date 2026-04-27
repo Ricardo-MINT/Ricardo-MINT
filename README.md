@@ -1,11 +1,15 @@
-# 👋 Prazer! Eu me chamo Ricardo :)
+## 👨‍💻 Ricardo Emanuel
 
-🐧 Entusiasta Linux | 🔧 Infraestrutura e Suporte | 🎓 Estudante FATEC-PG
+Estudante de Análise e Desenvolvimento de Sistemas (FATEC) com foco em Linux, infraestrutura e monitoramento.
 
-## 🛠️ Tecnologias
-- Linux (Mint, Ubuntu)
-- Terminal/Bash
-- Automatização no Terminal
+🔧 Atualmente trabalhando em:
+- Ambientes Linux com Docker
+- Monitoramento com Zabbix e Prometheus
+- Integração com PostgreSQL
+
+🎯 Objetivo:
+Atuar com infraestrutura, DevOps ou suporte técnico, aplicando automação e observabilidade.
+
 
 ## 📫 Contato
 - LinkedIn: [ricardo-emanuel](https://www.linkedin.com/in/ricardo-emanuel-ti/)
