@@ -5,8 +5,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (FATEC) com foco em Linux, i
 🔧 Atualmente desenvolvendo e estudando em:
 - Ambientes Linux com Docker
 - Monitoramento com Zabbix e Prometheus
-- Integração com PostgreSQL
-
+- Integração com OracleSQL
 🎯 Objetivo:
 Atuar com infraestrutura, DevOps, NOC ou suporte técnico, aplicando automação e observabilidade.
 
